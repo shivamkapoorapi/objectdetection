@@ -1,0 +1,4 @@
+pip freeze > requirements.txt
+package-name==1.2.3
+another-package==4.5.6
+third-package>=2.0.0,<3.0.0
